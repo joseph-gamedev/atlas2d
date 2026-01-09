@@ -1,4 +1,4 @@
-# GameEngine2D
+# atlas2d
 
 2D engine + sample game (MonsterChaseGame) targeting Windows.
 

@@ -1,0 +1,10 @@
+{
+    "name": "obstacle",
+    "position": [200 , 200],
+    "components": {
+        "sprite2d":{
+            "filepath": "data\\obstacle.dds"
+        },
+        "boxcollider2d":{}
+    }
+}

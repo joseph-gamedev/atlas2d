@@ -1,41 +1,15 @@
-# Prerequisites
-*.d
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
 
-# Precompiled Headers
-*.gch
-*.pch
+# Project Temporary Files
+#-------------------------------
 
-# Linker files
-*.ilk
+.idea
 
-# Debugger Files
-*.pdb
+/venv
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
+/docs/_build
+/docs/doxygen
+/docs/api
 
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
-
-# debug information files
-*.dwo
+/build/
+/cmake-build-*/

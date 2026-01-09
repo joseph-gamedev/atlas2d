@@ -1,0 +1,14 @@
+{
+    "name": "Player",
+    "position": [0 , 50],
+    "components": {
+        "sprite2d":{
+            "filepath": "data\\player.dds"
+        },
+        "rigidbody2d":{
+            "mass" : 100,
+            "dragcoefficient": 0.25          
+        },
+        "boxcollider2d":{}
+    }
+}

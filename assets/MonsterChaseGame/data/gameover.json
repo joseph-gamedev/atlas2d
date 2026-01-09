@@ -1,0 +1,9 @@
+{
+    "name": "gameover",
+    "position": [0 , 0],
+    "components": {
+        "sprite2d":{
+            "filepath": "data\\gameover.dds"
+        }
+    }
+}
